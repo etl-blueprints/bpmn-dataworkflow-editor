@@ -41,4 +41,41 @@ Bruno Oliveira and Óscar Oliveira, *Data*, 2025.
 ---
 
 ## 📁 Repository Structure (to be available soon)
+/editor/ → BPMN modeler with custom palette and validation
+/blueprints/ → JSON schema definitions for reusable logical components
+/schemas/ → Data contract specifications
+/generator/ → Code generator for BIML (planned)
+/docs/ → Documentation and GitHub Pages
+
+
+---
+
+## 🚧 Code Availability
+
+The source code and examples will be made available in this repository **soon**.  
+Stay tuned — or [watch this repo](https://github.com/YOUR_USERNAME/bpmn-dataworkflow-editor) for updates.
+
+---
+
+## 🌐 GitHub Pages
+
+You can explore documentation and interactive examples once available at:  
+**[https://your-username.github.io/bpmn-dataworkflow-editor](https://your-username.github.io/bpmn-dataworkflow-editor)**
+
+---
+
+## 📄 License
+
+This project will be released under the **MIT License**.
+
+---
+
+## 👥 Authors
+
+- **Bruno Oliveira** – [bmo@estg.ipp.pt](mailto:bmo@estg.ipp.pt)  
+- **Óscar Oliveira** – [oao@estg.ipp.pt](mailto:oao@estg.ipp.pt)  
+CIICESI, Porto Polytechnic
+
+---
+
 
